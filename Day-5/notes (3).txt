@@ -1,6 +1,6 @@
 -----------------
 Datatypes:
-	->Datatype represent what type of data storing on that variables
+	->Datatype represent what type of data storing on that variable
 
 Types:
 	1.primtive Datatypes:
