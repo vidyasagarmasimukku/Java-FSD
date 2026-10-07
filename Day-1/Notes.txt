@@ -31,7 +31,7 @@ SGML :
 
 HTML : 
 ------
-    ->HTML stands for Hyper Markup Language used to build the structure of the web Pages 
+    ->HTML stands for Hyper Markup Language used to build the structure of the web Pages\ 
     ->HTML introduced in the year 1191 by the developer "Tim bernerse lie"
     ->HTML Contains Series of "ELEMENTS" 
     ->present version of HTML is "HTML 5"
