@@ -36,7 +36,7 @@ Tags:
     2. Unpaired tags/self closing tags 
     ->Any Tags having only opening tags 
             Ex: 
-            <br> , <hr>, <img> , <col>, <input> ,<meta> ..etc 
+            <br> , <hr>, <img> , <col>, <input> ,<meta> ..etc..
 
 
 Attribute : 
