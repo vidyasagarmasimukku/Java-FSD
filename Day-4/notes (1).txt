@@ -52,7 +52,7 @@ Attribute :
 
 HTML Elements : 
 ----------- 
-    ->opening , closing tag and the content together is called HTML Elements 
+    ->opening , closing tag and the content together is called HTML Element.
 
     Ex: <h1> Heading </h1>
         <p> ---------- </p>
